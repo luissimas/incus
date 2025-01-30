@@ -26,7 +26,7 @@ var linstorLoaded bool
 // management of DRBD resources. The following table describes the mapping
 // between Incus and Linstor concepts implemented in this driver:
 //
-// | Incus concept | Lisntor concept     |
+// | Incus concept | Linstor concept     |
 // |---------------+---------------------|
 // | Storage pool  | Resource group      |
 // | Volume        | Resource definition |
